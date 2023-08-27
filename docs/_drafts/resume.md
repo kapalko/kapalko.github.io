@@ -64,7 +64,7 @@ Dedicated, passionate, empathetic, communicative, curious, and a self-starter. M
        Dec. 2018 - Nov. 2019
     </span>
 </p>
-- Identifyed, curated, and contracted with data science and ML startups to solve Air Force wide training and education problems. Rapidly designed, prototyped, and executed a [data science bootcamp][nexus] which influenced DoD training strategies and led to creation of [Digital University][digital-u].
+- Identified, curated, and contracted with data science and ML startups to solve Air Force wide training and education problems. Rapidly designed, prototyped, and executed a [data science bootcamp][nexus] which influenced DoD training strategies and led to creation of [Digital University][digital-u].
 
 <p style="text-align:left;">
     <strong>&ensp;Data Scientist,</strong> Special Programs Division - Hanscom AFB, MA
@@ -76,7 +76,7 @@ Dedicated, passionate, empathetic, communicative, curious, and a self-starter. M
 
 <h3 style="text-align: center;">EDUCATION:</h3>
 <p style="text-align: center;">
-    <strong>Master of Science:</strong> Operations Research; Air Force Institute of Technology - Wright-Patterson AFB, OH
+    <strong>Master of Science:</strong> Operations Research; Air Force Institute of Technology - Wright-Patterson AFB, OH<br />
     <strong>Bachelor of Science:</strong> Operations Research; United States Air Force Academy - Colorado Springs, CO
 </p>
 
